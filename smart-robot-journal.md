@@ -6,3 +6,10 @@ Day 1-7:
 
 
 I didn't knew anthing about it , so i first researched on the internet and then learn through many videos and articles read online . i went thoroughly through the tutorial given in the hackclub website so that i dont do any mistake and my project is verified.
+
+
+
+Day 8
+
+hi , today was fun, i gathered a lot of information from a seniou who helpo me understand the raspberry pi is and how it works . so it will be fun worling with these huys 
+<img width="460" height="132" alt="image" src="https://github.com/user-attachments/assets/acafb134-2de6-43a8-a917-449890e4eddd" />
