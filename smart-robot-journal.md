@@ -13,3 +13,9 @@ Day 8
 
 hi , today was fun, i gathered a lot of information from a seniou who helpo me understand the raspberry pi is and how it works . so it will be fun worling with these huys 
 <img width="460" height="132" alt="image" src="https://github.com/user-attachments/assets/acafb134-2de6-43a8-a917-449890e4eddd" />
+
+Day 9.
+Now i am working on the project. 
+i learned on the internet how do i install Operatinf sytem in raspberry pi. i am here coding all these in a single time. making it all possible , so lets see
+how does it goes. to day i have spent around 2 hours researching about the raspbian os and how does it work , i didn't wanted any kind of error to happen as it was my first raspberry pi project , i wanted to ensure the utmost safety.
+
